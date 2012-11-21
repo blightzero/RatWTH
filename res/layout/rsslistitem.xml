@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content" android:orientation="vertical">
+	<TableLayout android:layout_height="match_parent" android:id="@+id/tableLayout1" android:layout_width="match_parent" android:orientation="horizontal">
+		<TableRow android:id="@+id/tableRow3" android:layout_width="wrap_content" android:layout_height="match_parent" android:orientation="horizontal">
+			<ImageView android:layout_height="wrap_content" android:id="@+id/categoryImage" android:layout_gravity="left" android:layout_width="match_parent" android:scaleType="fitCenter" android:maxWidth="64dip" android:maxHeight="64dip" android:adjustViewBounds="true" android:minHeight="64dip" android:minWidth="64dip"></ImageView>
+			<TextView android:text="Title" android:id="@+id/feedtitle" android:paddingLeft="10dip" android:layout_gravity="center" android:layout_weight="0.5" android:layout_width="match_parent" android:layout_height="wrap_content"></TextView>
+		</TableRow>
+	</TableLayout>
+	<TextView android:paddingRight="8dip" android:text="PubDate" android:id="@+id/feedpubdate" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_gravity="right"></TextView>
+
+</LinearLayout>

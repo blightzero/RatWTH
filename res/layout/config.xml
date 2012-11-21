@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+	
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/background"
+    android:windowSoftInputMode="adjustPan"
+    >
+<ScrollView android:id="@+id/scrollView1" android:layout_height="fill_parent" android:layout_width="match_parent" >
+    
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"    
+    >
+
+<TextView android:height="64dp" android:layout_height="wrap_content" android:id="@+id/textView4" android:layout_width="wrap_content"></TextView>
+<TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/LoginL2P"/>
+
+<EditText
+    android:id="@+id/editText1"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:inputType="textNoSuggestions"
+    android:lines="1"
+    android:singleLine="true"
+    android:text="EditText" >
+
+</EditText>
+
+<TextView android:text="@string/PassL2P"  android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/textView1"></TextView>
+<EditText android:id="@+id/editText2" android:lines="1" android:layout_height="wrap_content" android:layout_width="match_parent" android:text="EditText" android:inputType="textPassword"></EditText>
+
+<TextView android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/textView2" android:text="@string/LoginCampus"></TextView>
+
+<EditText
+    android:id="@+id/editText3"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:inputType="textNoSuggestions"
+    android:lines="1"
+    android:singleLine="true"
+    android:text="EditText" >
+
+</EditText>
+
+<TextView android:text="@string/PassCampus" android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/textView3"></TextView>
+<EditText android:id="@+id/editText4" android:lines="1" android:layout_height="wrap_content" android:layout_width="match_parent" android:text="EditText" android:inputType="textPassword"></EditText>
+<TextView android:layout_height="wrap_content" android:id="@+id/TextView01" android:text="RSS Timeframe:" android:layout_width="wrap_content"></TextView>
+<Spinner android:id="@+id/spinner1" android:layout_height="wrap_content" android:layout_width="match_parent" android:prompt="@string/rsstimeprompt"></Spinner>
+
+<TableRow android:id="@+id/tableRow1" android:layout_gravity="right" android:layout_height="match_parent" android:layout_width="wrap_content">
+    <TableRow android:id="@+id/tableRow2" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <Button android:layout_width="wrap_content" android:text="@string/Save" android:layout_height="wrap_content" android:layout_gravity="right" android:clickable="true" android:id="@+id/Save"></Button>
+    </TableRow>
+    <TableRow android:id="@+id/tableRow3" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <Button android:layout_width="wrap_content"  android:text="@string/Reset" android:layout_height="wrap_content" android:layout_weight="1" android:layout_gravity="right" android:id="@+id/Reset"></Button>
+    </TableRow>
+</TableRow>
+
+</LinearLayout>
+</ScrollView>
+</LinearLayout>
+

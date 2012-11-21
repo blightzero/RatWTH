@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content" android:orientation="vertical">
+	<TableLayout android:layout_height="match_parent" android:id="@+id/tableLayout1" android:layout_width="match_parent" android:orientation="horizontal">
+		<TextView android:layout_width="match_parent" android:textColor="#FFFFFF" android:background="@color/RWTHBlue" android:id="@+id/eventSeperator" android:layout_height="wrap_content" android:layout_gravity="center" android:layout_weight="0.5" android:text="Sepeator"></TextView>
+		<TextView android:layout_width="match_parent" android:id="@+id/eventsummary" android:layout_height="wrap_content" android:layout_gravity="center" android:layout_weight="0.5" android:text="Summary"></TextView>
+		<TextView android:layout_width="match_parent" android:id="@+id/eventstartdate" android:layout_height="wrap_content" android:layout_gravity="right" android:text="StartDate" android:paddingRight="8dip"></TextView>
+	</TableLayout>
+	
+
+</LinearLayout>

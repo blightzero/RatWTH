@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/background"
+    >
+    <TextView android:layout_height="wrap_content" android:id="@+id/textView1" android:layout_width="wrap_content" android:height="64dp"></TextView>
+<TextView  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    
+    android:text="Summary"
+    android:id="@+id/summaryTextView"
+    />
+<TextView  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    
+    android:text="Starts:"
+    android:id="@+id/startTextView"
+    />
+<TextView  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    
+    android:text="Ends:"
+    android:id="@+id/endTextView"
+    />
+<TextView  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    
+    android:text="Location:"
+    android:id="@+id/locationTextView"
+    />
+<TextView  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    
+    android:text="Category:"
+    android:id="@+id/categoryTextView"
+    />
+<TextView  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    
+    android:text="Description:"
+    android:id="@+id/descriptionTextView"
+    />
+<LinearLayout android:id="@+id/linearLayout1" android:layout_height="wrap_content" android:layout_width="match_parent">
+    <Button android:layout_height="wrap_content" android:id="@+id/fullback" android:text="Back" android:layout_width="wrap_content"></Button>
+    <Button android:layout_height="wrap_content" android:text="@string/searchroom" android:layout_width="wrap_content" android:id="@+id/searchlocation"></Button>
+</LinearLayout>    
+
+</LinearLayout>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">RatWTH!</string>
+    <string name="app_name">RatWTH</string>
+    <string name="Login">Login</string>
+    <string name="LoginL2P">Login L2P:</string>
+    <string name="PassL2P">Password L2P:</string>
+    <string name="LoginCampus">Login Campus (Matrikulation No):</string>
+    <string name="PassCampus">Password Campus:</string>
+    <string name="Save">Save</string>
+    <string name="Reset">Reset</string>
+    <string name="rssFeed">RSS Feed</string>
+    <string name="l2prooms">Your L2P Rooms</string>
+    <string name="hoersaalliste">Auditorium List</string>
+    <string name="empty"></string>
+    <string name="rsstimeprompt">Select the Time Range for the RSS Feed</string>
+    <string name="searchroom">search location</string>
+    <string name="github">Get the Source Code at &lt;A href=&quot;http://github.com/blightzero/RatWTH&quot;&gt;GitHub&lt;/A&gt;</string>
+</resources>

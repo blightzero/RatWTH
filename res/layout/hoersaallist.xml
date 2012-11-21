@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/background"
+    android:windowSoftInputMode="adjustPan"
+    >
+<TextView  
+    android:layout_width="fill_parent" 
+    android:id="@+id/toptitle"
+    android:text="@string/hoersaalliste" android:layout_height="60dip"/>
+<TextView  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text=""
+    android:id="@+id/bottomtitle"
+    />
+<EditText android:layout_height="wrap_content" android:layout_width="match_parent" android:text="@string/empty" android:id="@+id/editTextfilter1" android:inputType="textFilter"></EditText>
+<ListView
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:id="@+id/hoersaallist"
+	
+	android:footerDividersEnabled="true" android:divider="@color/RWTHBlue" android:dividerHeight="2dp" android:textFilterEnabled="true"/>    
+</LinearLayout>

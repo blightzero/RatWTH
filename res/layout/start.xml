@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:ads="http://schemas.android.com/apk/lib/com.google.ads"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/background" android:layout_gravity="center|right">
+    <TableRow android:id="@+id/tableRow8" android:layout_width="match_parent" android:layout_height="74dip"></TableRow>
+    <TableRow android:layout_height="wrap_content" android:id="@+id/tableRow9" android:layout_gravity="center|center_horizontal" android:layout_marginBottom="10dip" android:gravity="center" android:layout_width="wrap_content">
+        <ImageButton android:id="@+id/imageButton3" android:layout_height="wrap_content" android:layout_width="wrap_content" android:layout_gravity="center" android:src="@drawable/l2p_logo_home" android:maxHeight="96dip" android:adjustViewBounds="true" android:scaleType="fitXY" android:maxWidth="96dip" android:minHeight="96dip" android:minWidth="96dip" android:layout_marginLeft="5dp" android:layout_marginRight="5dp"></ImageButton>
+        <ImageButton android:id="@+id/imageButton4" android:layout_height="wrap_content" android:layout_width="wrap_content" android:layout_gravity="center" android:maxHeight="96dip" android:adjustViewBounds="true" android:scaleType="fitXY" android:maxWidth="96dip" android:src="@drawable/rss_blue"  android:layout_marginLeft="5dp" android:layout_marginRight="5dp"></ImageButton>
+    </TableRow>
+    <TableRow android:layout_height="wrap_content" android:id="@+id/tableRow10" android:layout_width="match_parent" android:gravity="center" android:layout_marginBottom="10dip">
+     	<ImageButton android:id="@+id/imageButton2" android:layout_height="wrap_content" android:layout_width="wrap_content" android:maxWidth="96dip" android:maxHeight="96dip" android:adjustViewBounds="true" android:scaleType="fitXY" android:src="@drawable/calendar_ico"  android:layout_marginLeft="5dp" android:layout_marginRight="5dp"></ImageButton> 
+        <ImageButton android:id="@+id/imageButton6" android:layout_height="wrap_content" android:layout_width="wrap_content" android:maxWidth="96dip" android:maxHeight="96dip" android:adjustViewBounds="true" android:scaleType="fitXY" android:src="@drawable/gmaps"  android:layout_marginLeft="5dp" android:layout_marginRight="5dp"></ImageButton>
+    </TableRow>
+    <TableRow android:layout_height="wrap_content" android:id="@+id/tableRow11" android:layout_width="match_parent" android:layout_marginBottom="10dip" android:gravity="center">
+        <ImageButton android:id="@+id/imageButton5" android:layout_height="wrap_content" android:layout_width="wrap_content" android:maxWidth="96dip" android:maxHeight="96dip" android:adjustViewBounds="true" android:src="@drawable/task_report" android:scaleType="fitXY"  android:layout_marginLeft="5dp" android:layout_marginRight="5dp"></ImageButton>
+        <ImageButton android:id="@+id/imageButton1" android:layout_height="wrap_content" android:layout_width="wrap_content" android:maxWidth="96dip" android:maxHeight="96dip" android:adjustViewBounds="true" android:scaleType="fitXY" android:src="@drawable/calendar"  android:layout_marginLeft="5dp" android:layout_marginRight="5dp"></ImageButton>
+    </TableRow>
+    <TableRow android:layout_height="wrap_content" android:id="@+id/tableRow11" android:layout_width="match_parent" android:layout_marginBottom="10dip" android:gravity="center">
+
+	    <TextView
+	        android:id="@+id/textView1"
+	        android:layout_width="match_parent"
+	        android:layout_height="match_parent"
+	        android:gravity="center"
+	        android:text="@string/github" />
+
+    </TableRow>
+    <TableRow android:layout_height="wrap_content" android:id="@+id/tableRow12" android:layout_width="match_parent" android:layout_marginTop="10dip" android:gravity="center">
+        <TextView android:text="" android:id="@+id/textViewStatus" android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+    </TableRow>
+</LinearLayout>
+

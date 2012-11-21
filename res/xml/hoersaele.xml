@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<csv_data>
+<hoersaal RaumID="6010|216" Raumname="IFP-1" Adresse="Jägerstr.17/19" Sitzplaetze="52" Raumart="Seminarraum" />
+<hoersaal RaumID="6010|216.1" Raumname="IFP-2" Adresse="Jägerstraße 17/19" Sitzplaetze="20" Raumart="Seminarraum" />
+<hoersaal RaumID="2090|120" Raumname="FT" Adresse="Melatener Straße 23" Sitzplaetze="284" Raumart="Hörsaal" />
+<hoersaal RaumID="2110|112" Raumname="HSZ" Adresse="Mies-van-der-Rohe-Str." Sitzplaetze="40" Raumart="Sport- u. Seminarraum" />
+<hoersaal RaumID="2130|218" Raumname="BS 218" Adresse="Mies-van-der-Rohe-Str. 1" Sitzplaetze="85" Raumart="Hörsaal" />
+<hoersaal RaumID="2130|312" Raumname="BS 312" Adresse="Mies-van-der-Rohe-Str. 1" Sitzplaetze="57" Raumart="Hörsaal" />
+<hoersaal RaumID="2131|101" Raumname="BS I" Adresse="Mies-van-der-Rohe-Str. 1" Sitzplaetze="204" Raumart="Hörsaal" />
+<hoersaal RaumID="2131|102" Raumname="BS II" Adresse="Mies-van-der-Rohe-Str. 1" Sitzplaetze="204" Raumart="Hörsaal" />
+<hoersaal RaumID="2181|P11" Raumname="MeT P 11" Adresse="Kopernikusstraße 14" Sitzplaetze="100" Raumart="Hörsaal" />
+<hoersaal RaumID="2350|009" Raumname="AH I" Adresse="Ahornstraße 55" Sitzplaetze="165" Raumart="Hörsaal" />
+<hoersaal RaumID="2350|111" Raumname="AH II" Adresse="Ahornstraße 55" Sitzplaetze="180" Raumart="Hörsaal" />
+<hoersaal RaumID="2350|314.1" Raumname="AH III" Adresse="Ahornstraße 55" Sitzplaetze="180" Raumart="Hörsaal" />
+<hoersaal RaumID="2352|021" Raumname="Aula 2" Adresse="Ahornstraße 55" Sitzplaetze="220" Raumart="Versammlungsraum" />
+<hoersaal RaumID="2354|030" Raumname="AH IV" Adresse="Ahornstraße 55" Sitzplaetze="278" Raumart="Hörsaal" />
+<hoersaal RaumID="2356|019" Raumname="6019" Adresse="Ahornstraße 55" Sitzplaetze="36" Raumart="Seminar/Übungsraum" />
+<hoersaal RaumID="2356|050" Raumname="AH V" Adresse="Ahornstraße 55" Sitzplaetze="247" Raumart="Hörsaal" />
+<hoersaal RaumID="2356|051" Raumname="AH VI" Adresse="Ahornstraße 55" Sitzplaetze="134" Raumart="Hörsaal" />
+<hoersaal RaumID="2356|052" Raumname="5052" Adresse="Ahornstraße 55" Sitzplaetze="36" Raumart="Seminar/Übungsraum" />
+<hoersaal RaumID="2356|054" Raumname="5054" Adresse="Ahornstraße 55" Sitzplaetze="36" Raumart="Seminar/Übungsraum" />
+<hoersaal RaumID="2356|055" Raumname="5055" Adresse="Ahornstraße 55" Sitzplaetze="36" Raumart="Seminar/Übungsraum" />
+<hoersaal RaumID="2356|056" Raumname="5056" Adresse="Ahornstraße 55" Sitzplaetze="58" Raumart="Seminar/Übungsraum" />
+<hoersaal RaumID="3020|03.1" Raumname="Se 1" Adresse="Kackertstraße 15, 52072 Aachen" Sitzplaetze="60" Raumart="Seminarraum" />
+<hoersaal RaumID="3020|03.3" Raumname="Se 3" Adresse="Kackertstraße 15, 52072 Aachen" Sitzplaetze="44" Raumart="Seminarraum" />
+<hoersaal RaumID="5460|001" Raumname="Gut Melaten" Adresse="Schneebergweg 30" Sitzplaetze="180" Raumart="Festraum" />
+<hoersaal RaumID="1010|101" Raumname="I" Adresse="Templergraben 55" Sitzplaetze="233" Raumart="Hörsaal" />
+<hoersaal RaumID="1010|107" Raumname="III" Adresse="Templergraben 55" Sitzplaetze="122" Raumart="Hörsaal" />
+<hoersaal RaumID="1010|131" Raumname="AachenMünchener Halle (Aula)" Adresse="Templergraben 55" Sitzplaetze="664" Raumart="Versammlungsraum" />
+<hoersaal RaumID="1010|141" Raumname="IV" Adresse="Templergraben 55" Sitzplaetze="128" Raumart="Hörsaal" />
+<hoersaal RaumID="1010|201" Raumname="II" Adresse="Templergraben 55" Sitzplaetze="235" Raumart="Hörsaal" />
+<hoersaal RaumID="1010|213" Raumname="V" Adresse="Templergraben 55" Sitzplaetze="129" Raumart="Hörsaal" />
+<hoersaal RaumID="1050|U104" Raumname="AS" Adresse="Templergraben 64" Sitzplaetze="95" Raumart="Hörsaal" />
+<hoersaal RaumID="1070|113" Raumname="Phil" Adresse="Kármánstraße 17-19" Sitzplaetze="100" Raumart="Hörsaal" />
+<hoersaal RaumID="1072|001" Raumname="Couven-Halle" Adresse="Karmanstraße 17-19" Sitzplaetze="199" Raumart="Multifunktionsraum" />
+<hoersaal RaumID="1080|005" Raumname="R 5" Adresse="Templergraben 51" Sitzplaetze="138" Raumart="Hörsaal" />
+<hoersaal RaumID="1080|024" Raumname="Foyer Reiffmuseum" Adresse="Schinkelstraße 1" Sitzplaetze="" Raumart="Foyer" />
+<hoersaal RaumID="1080|140" Raumname="R 140" Adresse="Schinkelstraße 1" Sitzplaetze="106" Raumart="Hörsaal" />
+<hoersaal RaumID="1080|220" Raumname="R 220" Adresse="Schinkelstraße 1" Sitzplaetze="48" Raumart="Seminarraum" />
+<hoersaal RaumID="1090|301" Raumname="E1" Adresse="Schinkelstraße 2" Sitzplaetze="79" Raumart="Hörsaal" />
+<hoersaal RaumID="1090|321" Raumname="Eph" Adresse="Schinkelstraße 2" Sitzplaetze="306" Raumart="Hörsaal" />
+<hoersaal RaumID="1090|334" Raumname="klPhys" Adresse="Schinkelstraße 2" Sitzplaetze="88" Raumart="Hörsaal" />
+<hoersaal RaumID="1100|U101" Raumname="VT" Adresse="Wüllnerstraße 5" Sitzplaetze="146" Raumart="Hörsaal" />
+<hoersaal RaumID="1132|101" Raumname="HKW 1" Adresse="Wüllnerstr. 1, 52062 Aachen" Sitzplaetze="196" Raumart="Hörsaal" />
+<hoersaal RaumID="1132|301" Raumname="HKW 2" Adresse="Wüllnerstr. 1, 52062 Aachen" Sitzplaetze="196" Raumart="Hörsaal" />
+<hoersaal RaumID="1132|503" Raumname="HKW 4" Adresse="Wüllnerstraße 1" Sitzplaetze="40" Raumart="Seminarraum" />
+<hoersaal RaumID="1132|504" Raumname="HKW 3" Adresse="Wüllnerstraße 1" Sitzplaetze="40" Raumart="Seminarraum" />
+<hoersaal RaumID="1132|603" Raumname="HKW 5" Adresse="Wüllnerstraße 1" Sitzplaetze="120" Raumart="Seminarraum" />
+<hoersaal RaumID="1140|114" Raumname="Be 114" Adresse="Wüllnerstraße 2" Sitzplaetze="84" Raumart="Seminar/Übungsraum" />
+<hoersaal RaumID="1140|211" Raumname="Be 211" Adresse="Wüllnerstraße 2" Sitzplaetze="220" Raumart="Hörsaal" />
+<hoersaal RaumID="1140|225" Raumname="Be 225" Adresse="Wüllnerstraße 2" Sitzplaetze="104" Raumart="Hörsaal" />
+<hoersaal RaumID="1140|411" Raumname="Be 411" Adresse="Wüllnerstraße 2" Sitzplaetze="208" Raumart="Hörsaal" />
+<hoersaal RaumID="1160|109" Raumname="Bibliothek 2" Adresse="Templergraben 59" Sitzplaetze="114" Raumart="Hörsaal" />
+<hoersaal RaumID="1220|310" Raumname="MS" Adresse="Eilfschornsteinstraße 18" Sitzplaetze="111" Raumart="Hörsaal" />
+<hoersaal RaumID="1230|001" Raumname="WK" Adresse="Augustinerbach 4-22" Sitzplaetze="142" Raumart="Hörsaal" />
+<hoersaal RaumID="1240|257" Raumname="BF" Adresse="Schinkelstraße 3" Sitzplaetze="40" Raumart="Seminar/Übungsraum" />
+<hoersaal RaumID="1250|243" Raumname="E2" Adresse="Schinkelstraße 4" Sitzplaetze="90" Raumart="Hörsaal" />
+<hoersaal RaumID="1270|109" Raumname="EA" Adresse="Schinkelstraße 6" Sitzplaetze="159" Raumart="Hörsaal" />
+<hoersaal RaumID="1300|408" Raumname="TD" Adresse="Schinkelstraße 8" Sitzplaetze="56" Raumart="Hörsaal" />
+<hoersaal RaumID="1320|301" Raumname="Lu" Adresse="Wüllnerstraße 7" Sitzplaetze="108" Raumart="Hörsaal" />
+<hoersaal RaumID="1370|001" Raumname="GH" Adresse="Mauerstr. 5" Sitzplaetze="40" Raumart="Hörsaal" />
+<hoersaal RaumID="1390|218" Raumname="H 218" Adresse="Intzestraße 5" Sitzplaetze="252" Raumart="Hörsaal" />
+<hoersaal RaumID="1400|201" Raumname="H 201" Adresse="Intzestraße 3" Sitzplaetze="99" Raumart="Hörsaal" />
+<hoersaal RaumID="1400|212" Raumname="H 212" Adresse="Intzestraße 1" Sitzplaetze="78" Raumart="Hörsaal" />
+<hoersaal RaumID="1400|222" Raumname="H 222" Adresse="Intzestraße 1" Sitzplaetze="209" Raumart="Hörsaal" />
+<hoersaal RaumID="1420|001" Raumname="Grüner Hörsaal AM (Gr)" Adresse="Wüllnerstraße 9" Sitzplaetze="441" Raumart="Hörsaal" />
+<hoersaal RaumID="1420|002" Raumname="Roter Hörsaal AM (Ro)" Adresse="Wüllnerstraße 9" Sitzplaetze="474" Raumart="Hörsaal" />
+<hoersaal RaumID="1420|210" Raumname="Großer Hörsaal AM" Adresse="Wüllnerstraße 9" Sitzplaetze="1043" Raumart="Hörsaal" />
+<hoersaal RaumID="1440|114" Raumname="F 60" Adresse="Intzestraße 10" Sitzplaetze="56" Raumart="Hörsaal" />
+<hoersaal RaumID="1541|209" Raumname="Fk 9" Adresse="Lochnerstraße 4-20" Sitzplaetze="50" Raumart="Seminar/Übungsraum" />
+<hoersaal RaumID="1580|001" Raumname="SE 001" Adresse="Templergraben 90" Sitzplaetze="30" Raumart="Seminarraum" />
+<hoersaal RaumID="1580|002" Raumname="SE 002" Adresse="Templergraben 90" Sitzplaetze="18" Raumart="Seminarraum" />
+<hoersaal RaumID="1580|003" Raumname="SE 003" Adresse="Templergraben 90" Sitzplaetze="18" Raumart="Seminarraum" />
+<hoersaal RaumID="1580|101" Raumname="SE 101" Adresse="Templergraben 90" Sitzplaetze="30" Raumart="Seminarraum" />
+<hoersaal RaumID="1580|102" Raumname="SE 102" Adresse="Templergraben 90" Sitzplaetze="18" Raumart="Seminarraum" />
+<hoersaal RaumID="1580|103" Raumname="SE 103" Adresse="Templergraben 90" Sitzplaetze="18" Raumart="Seminarraum" />
+<hoersaal RaumID="1580|108" Raumname="SE 108" Adresse="Templergraben 90" Sitzplaetze="30" Raumart="Seminarraum" />
+<hoersaal RaumID="1580|209" Raumname="SE 209" Adresse="Templergraben 90" Sitzplaetze="30" Raumart="Seminarraum" />
+<hoersaal RaumID="1810|012" Raumname="SG 12" Adresse="Wüllnerstraße zw. 5 b" Sitzplaetze="58" Raumart="Seminar/Übungsraum" />
+<hoersaal RaumID="1810|013" Raumname="SG 13" Adresse="Wüllnerstraße 5-7" Sitzplaetze="52" Raumart="Seminar/Übungsraum" />
+<hoersaal RaumID="1810|023" Raumname="SG 23" Adresse="Wüllnerstraße 5-7" Sitzplaetze="46" Raumart="Seminar/Übungsraum" />
+<hoersaal RaumID="1810|202" Raumname="SG 202" Adresse="Wüllnerstraße 5-7" Sitzplaetze="24" Raumart="Seminar/Übungsraum" />
+<hoersaal RaumID="1810|203" Raumname="SG 203" Adresse="Wüllnerstraße 5-7" Sitzplaetze="36" Raumart="Seminar/Übungsraum" />
+<hoersaal RaumID="1810|413" Raumname="SG 413" Adresse="Wüllnerstraße 5-7" Sitzplaetze="34" Raumart="Seminar/Übungsraum" />
+<hoersaal RaumID="1810|422" Raumname="SG 422" Adresse="Wüllnerstraße 5-7" Sitzplaetze="48" Raumart="Seminar/Übungsraum" />
+<hoersaal RaumID="1810|512" Raumname="SG 512" Adresse="Wüllnerstraße 5-7" Sitzplaetze="50" Raumart="Seminar/Übungsraum" />
+<hoersaal RaumID="1810|513" Raumname="SG 513" Adresse="Wüllnerstraße 5- 7" Sitzplaetze="94" Raumart="Seminar/Übungsraum" />
+<hoersaal RaumID="1820|201" Raumname="Fo 1" Adresse="Eilfschornsteinstraße 15" Sitzplaetze="775" Raumart="Hörsaal" />
+<hoersaal RaumID="1820|202" Raumname="Fo 2" Adresse="Eilfschornsteinstraße 15" Sitzplaetze="450" Raumart="Hörsaal" />
+<hoersaal RaumID="1820|203" Raumname="Fo 3" Adresse="Eilfschornsteinstraße 15" Sitzplaetze="136" Raumart="Hörsaal" />
+<hoersaal RaumID="1820|204" Raumname="Fo 8" Adresse="Eilfschornsteinstraße 15" Sitzplaetze="76" Raumart="Hörsaal" />
+<hoersaal RaumID="1820|205" Raumname="Fo 7" Adresse="Eilfschornsteinstraße 15" Sitzplaetze="76" Raumart="Hörsaal" />
+<hoersaal RaumID="1820|206" Raumname="Fo 6" Adresse="Eilfschornsteinstraße 15" Sitzplaetze="76" Raumart="Hörsaal" />
+<hoersaal RaumID="1820|207" Raumname="Fo 4" Adresse="Eilfschornsteinstraße 15" Sitzplaetze="256" Raumart="Hörsaal" />
+<hoersaal RaumID="1820|208" Raumname="Fo 5" Adresse="Eilfschornsteinstraße 15" Sitzplaetze="172" Raumart="Hörsaal" />
+<hoersaal RaumID="1820|AusO" Raumname="Außenbereich Karman, oben" Adresse="Eilfschornsteinstraße 15" Sitzplaetze="" Raumart="Außenbereich" />
+<hoersaal RaumID="1820|AusU" Raumname="Außenbereich Karman, unten" Adresse="Eilfschornsteinstraße 15" Sitzplaetze="" Raumart="Außenbereich" />
+<hoersaal RaumID="1821|001" Raumname="SFo 1" Adresse="Eilfschornsteinstraße 15" Sitzplaetze="40" Raumart="Seminar/Übungsraum" />
+<hoersaal RaumID="1821|002" Raumname="SFo 2" Adresse="Eilfschornsteinstraße 15" Sitzplaetze="40" Raumart="Seminar/Übungsraum" />
+<hoersaal RaumID="1821|003" Raumname="SFo 3" Adresse="Eilfschornsteinstraße 15" Sitzplaetze="40" Raumart="Seminar/Übungsraum" />
+<hoersaal RaumID="1821|004" Raumname="SFo 4" Adresse="Eilfschornsteinstraße 15" Sitzplaetze="40" Raumart="Seminar/Übungsraum" />
+<hoersaal RaumID="1821|009" Raumname="SFo 9" Adresse="Eilfschornsteinstraße 15" Sitzplaetze="40" Raumart="Seminar/Übungsraum" />
+<hoersaal RaumID="1821|010" Raumname="SFo 10" Adresse="Eilfschornsteinstraße 15" Sitzplaetze="40" Raumart="Seminar/Übungsraum" />
+<hoersaal RaumID="1821|011" Raumname="SFo 11" Adresse="Eilfschornsteinstraße 15" Sitzplaetze="40" Raumart="Seminar/Übungsraum" />
+<hoersaal RaumID="1821|014" Raumname="SFo 14" Adresse="Eilfschornsteinstraße 15" Sitzplaetze="40" Raumart="Seminar/Übungsraum" />
+<hoersaal RaumID="1830|001" Raumname="1" Adresse="Eilfschornsteinstraße 7" Sitzplaetze="38" Raumart="Seminar/Übungsraum" />
+<hoersaal RaumID="1830|004" Raumname="4" Adresse="Eilfschornsteinstraße 7" Sitzplaetze="64" Raumart="Seminar/Übungsraum" />
+<hoersaal RaumID="1990|001" Raumname="Apollokino Saal 1" Adresse="Pontstraße 141-194" Sitzplaetze="201" Raumart="Kinosaal" />
+<hoersaal RaumID="3990|003" Raumname="RS 3" Adresse="Rochusstraße 2-14" Sitzplaetze="40" Raumart="Sitzungssaal" />
+<hoersaal RaumID="3990|004" Raumname="RS 4" Adresse="Rochusstraße 2-14" Sitzplaetze="154" Raumart="Hörsaal" />
+<hoersaal RaumID="3990|005" Raumname="RS 5" Adresse="Rochusstraße 2-14" Sitzplaetze="112" Raumart="Hörsaal" />
+<hoersaal RaumID="3990|103" Raumname="RS 103" Adresse="Rochusstraße 2-14" Sitzplaetze="60" Raumart="Seminar/Übungsraum" />
+<hoersaal RaumID="3990|105" Raumname="RS 105" Adresse="Rochusstraße 2-14" Sitzplaetze="20" Raumart="Seminar/Übungsraum" />
+<hoersaal RaumID="3990|106" Raumname="RS 106" Adresse="Rochusstraße 2-14" Sitzplaetze="12" Raumart="Medien-Unterrichtsraum" />
+<hoersaal RaumID="3990|107" Raumname="RS 107" Adresse="Rochusstraße 2-14" Sitzplaetze="30" Raumart="Seminar/Übungsraum" />
+<hoersaal RaumID="3990|108" Raumname="RS 108" Adresse="Rochusstraße 2-14" Sitzplaetze="32" Raumart="Seminar/Übungsraum" />
+<hoersaal RaumID="6072|008" Raumname="Kino 8" Adresse="Borngasse 30, 52064 Aachen" Sitzplaetze="186" Raumart="Kinosaal" />
+<hoersaal RaumID="6072|009" Raumname="Kino 9" Adresse="Borngasse 30, 52064 Aachen" Sitzplaetze="123" Raumart="Kinosaal" />
+<hoersaal RaumID="Hörsaal 1" Raumname="" Adresse="Pauwelsstraße 30, 52074 Aachen" Sitzplaetze="153" Raumart="Hörsaal" />
+<hoersaal RaumID="Hörsaal 2" Raumname="" Adresse="Pauwelsstraße 30, 52074 Aachen" Sitzplaetze="153" Raumart="Hörsaal" />
+<hoersaal RaumID="Hörsaal 3" Raumname="" Adresse="Pauwelsstraße 30, 52074 Aachen" Sitzplaetze="300" Raumart="Hörsaal" />
+<hoersaal RaumID="Hörsaal 4" Raumname="" Adresse="Pauwelsstraße 30, 52074 Aachen" Sitzplaetze="300" Raumart="Hörsaal" />
+<hoersaal RaumID="Hörsaal 5" Raumname="" Adresse="Pauwelsstraße 30, 52074 Aachen" Sitzplaetze="153" Raumart="Hörsaal" />
+<hoersaal RaumID="Hörsaal 6" Raumname="" Adresse="Pauwelsstraße 30, 52074 Aachen" Sitzplaetze="153" Raumart="Hörsaal" />
+<hoersaal RaumID="Kursraum 15" Raumname="K 15" Adresse="Pauwelsstraße 30, 52074 Aachen" Sitzplaetze="60" Raumart="Laborkursraum" />
+<hoersaal RaumID="Kursraum 16" Raumname="K 16" Adresse="Pauwelsstraße 30, 52074 Aachen" Sitzplaetze="38" Raumart="Laborkursraum" />
+<hoersaal RaumID="Kursraum 17" Raumname="K17" Adresse="Pauwelsstraße 30, 52074 Aachen" Sitzplaetze="34" Raumart="Laborkursraum" />
+<hoersaal RaumID="Kursraum 18" Raumname="K 18" Adresse="Pauwelsstraße 30, 52074 Aachen" Sitzplaetze="55" Raumart="Laborkursraum" />
+<hoersaal RaumID="MTI - AIXTRA 01" Raumname="" Adresse="Wendlingweg 2, 52057 Aachen" Sitzplaetze="" Raumart="" />
+<hoersaal RaumID="MTI - AIXTRA 02" Raumname="" Adresse="Wendlingweg 2, 52057 Aachen" Sitzplaetze="" Raumart="" />
+<hoersaal RaumID="MTI - AIXTRA 03" Raumname="" Adresse="Wendlingweg 2, 52057 Aachen" Sitzplaetze="" Raumart="" />
+<hoersaal RaumID="MTI - AIXTRA 04" Raumname="" Adresse="Wendlingweg 2, 52057 Aachen" Sitzplaetze="" Raumart="" />
+<hoersaal RaumID="MTI - AIXTRA 05" Raumname="" Adresse="Wendlingweg 2, 52057 Aachen" Sitzplaetze="" Raumart="" />
+<hoersaal RaumID="MTI - AIXTRA 06" Raumname="" Adresse="Wendlingweg 2, 52057 Aachen" Sitzplaetze="" Raumart="" />
+<hoersaal RaumID="MTI - AIXTRA 07" Raumname="" Adresse="Wendlingweg 2, 52057 Aachen" Sitzplaetze="" Raumart="" />
+<hoersaal RaumID="MTI - AIXTRA Seminarraum" Raumname="" Adresse="Wendlingweg 2, 52057 Aachen" Sitzplaetze="" Raumart="" />
+<hoersaal RaumID="MTI Histologiesaal" Raumname="" Adresse="Wendlingweg 2, 52057 Aachen" Sitzplaetze="210" Raumart="Kurssaal" />
+<hoersaal RaumID="MTI Hörsaal" Raumname="" Adresse="Wendlingweg 2, 52057 Aachen" Sitzplaetze="220" Raumart="Hörsaal" />
+<hoersaal RaumID="MTI Kommunikationsraum" Raumname="" Adresse="Wendlingweg 2, 52057 Aachen" Sitzplaetze="20" Raumart="Seminarraum" />
+<hoersaal RaumID="MTI Kursraum 106" Raumname="" Adresse="Wendlingweg 2, 52057 Aachen" Sitzplaetze="20" Raumart="Kursraum" />
+<hoersaal RaumID="MTI Kursraum 107" Raumname="" Adresse="Wendlingweg 2, 52057 Aachen" Sitzplaetze="20" Raumart="Kursraum" />
+<hoersaal RaumID="MTI Kursraum 108" Raumname="" Adresse="Wendlingweg 2, 52057 Aachen" Sitzplaetze="20" Raumart="Kursraum" />
+<hoersaal RaumID="MTI Kursraum 110 L" Raumname="" Adresse="Wendlingweg 2, 52057 Aachen" Sitzplaetze="30" Raumart="Kursraum" />
+<hoersaal RaumID="MTI Kursraum 110 R" Raumname="" Adresse="Wendlingweg 2, 52057 Aachen" Sitzplaetze="30" Raumart="Kursraum" />
+<hoersaal RaumID="MTI Seminarraum 1" Raumname="" Adresse="Wendlingweg 2, 52057 Aachen" Sitzplaetze="26" Raumart="Seminarraum" />
+<hoersaal RaumID="MTI Seminarraum 2" Raumname="" Adresse="Wendlingweg 2, 52057 Aachen" Sitzplaetze="22" Raumart="Seminarraum" />
+<hoersaal RaumID="MTI Seminarraum 3" Raumname="" Adresse="Wendlingweg 2, 52057 Aachen" Sitzplaetze="22" Raumart="Seminarraum" />
+<hoersaal RaumID="MTI Seminarraum 4" Raumname="" Adresse="Wendlingweg 2, 52057 Aachen" Sitzplaetze="26" Raumart="Seminarraum" />
+<hoersaal RaumID="MTI Seminarraum 5" Raumname="" Adresse="Wendlingweg 2, 52057 Aachen" Sitzplaetze="26" Raumart="Seminarraum" />
+<hoersaal RaumID="MTI Seminarraum 6" Raumname="" Adresse="Wendlingweg 2, 52057 Aachen" Sitzplaetze="26" Raumart="Seminarraum" />
+<hoersaal RaumID="MTI Seminarraum 7" Raumname="" Adresse="Wendlingweg 2, 52057 Aachen" Sitzplaetze="28" Raumart="Seminarraum" />
+<hoersaal RaumID="MTI Unterrichtsraum" Raumname="" Adresse="Wendlingweg 2, 52057 Aachen" Sitzplaetze="15" Raumart="Seminarraum" />
+<hoersaal RaumID="UKA Konferenzraum" Raumname="" Adresse="Pauwelsstraße 30, 52074 Aachen" Sitzplaetze="15" Raumart="Konferenzraum" />
+<hoersaal RaumID="UKA Seminarraum" Raumname="" Adresse="Pauwelsstraße 30, 52074 Aachen" Sitzplaetze="100" Raumart="Seminar- und Übungsraum" />
+<hoersaal RaumID="UKA Spiegelsaal" Raumname="" Adresse="Pauwelsstraße 30, 52074 Aachen" Sitzplaetze="28" Raumart="Konferenz- und Seminarraum" />
+<hoersaal RaumID="UKA Zahn 7" Raumname="" Adresse="Pauwelsstraße 30, 52074 Aachen" Sitzplaetze="35" Raumart="Seminar-,Übungs- und Gesellschaftsraum" />
+<hoersaal RaumID="UKA-AIXTRA 01" Raumname="" Adresse="Pauwelsstr. 30" Sitzplaetze="" Raumart="" />
+<hoersaal RaumID="UKA-AIXTRA 02" Raumname="" Adresse="Pauwelsstr. 30" Sitzplaetze="" Raumart="" />
+<hoersaal RaumID="UKA-AIXTRA 03" Raumname="" Adresse="Pauwelsstr. 30" Sitzplaetze="" Raumart="" />
+<hoersaal RaumID="UKA-AIXTRA 04" Raumname="" Adresse="Pauwelsstr. 30" Sitzplaetze="" Raumart="" />
+<hoersaal RaumID="UKA-AIXTRA 05" Raumname="" Adresse="Pauwelsstr. 30" Sitzplaetze="" Raumart="" />
+<hoersaal RaumID="UKA-AIXTRA 06" Raumname="" Adresse="Pauwelsstr. 30" Sitzplaetze="" Raumart="" />
+<hoersaal RaumID="UKA-AIXTRA 09" Raumname="" Adresse="Pauwelsstr. 30" Sitzplaetze="" Raumart="" />
+<hoersaal RaumID="UKA-AIXTRA 10" Raumname="" Adresse="Pauwelsstr. 30" Sitzplaetze="" Raumart="" />
+<hoersaal RaumID="UKA-Computerarbeitsraum" Raumname="Coma-Pool 1" Adresse="Pauwelsstr. 30" Sitzplaetze="20" Raumart="Computerarbeitsraum" />
+<hoersaal RaumID="UKA-Computerseminarraum" Raumname="Coma-Pool 2" Adresse="Pauwelsstr. 30" Sitzplaetze="20" Raumart="Computerarbeitsraum" />
+<hoersaal RaumID="1040|129" Raumname="1.29" Adresse="Templergraben 57" Sitzplaetze="12" Raumart="Konferenzraum" />
+<hoersaal RaumID="1040|130" Raumname="1.3" Adresse="Templergraben 57" Sitzplaetze="12" Raumart="Konferenzraum" />
+<hoersaal RaumID="1040|429" Raumname="4.29" Adresse="Templergraben 57" Sitzplaetze="12" Raumart="Konferenzraum" />
+<hoersaal RaumID="1040|430" Raumname="4.3" Adresse="Templergraben 57" Sitzplaetze="20" Raumart="Konferenzraum" />
+<hoersaal RaumID="1040|531" Raumname="5.31" Adresse="Templergraben 57" Sitzplaetze="12" Raumart="Konferenzraum" />
+<hoersaal RaumID="1040|532" Raumname="5.32" Adresse="Templergraben 57" Sitzplaetze="12" Raumart="Konferenzraum" />
+<hoersaal RaumID="1040|637" Raumname="Ford-Saal" Adresse="Templergraben 57" Sitzplaetze="185" Raumart="Multifunktionaler Raum" />
+<hoersaal RaumID="1040|639" Raumname="Generali-Saal" Adresse="Templergraben 57" Sitzplaetze="185" Raumart="Multifunktionaler Raum" />
+<hoersaal RaumID="1040|U234" Raumname="Sparkassenforum" Adresse="Templergraben 57" Sitzplaetze="" Raumart="Ausstellungssaal" />
+<hoersaal RaumID="1080|137" Raumname="R 137" Adresse="Schinkelstraße 1" Sitzplaetze="30" Raumart="Sitzungszimmer" />
+<hoersaal RaumID="1080|315" Raumname="R 315" Adresse="Schinkelstraße 1" Sitzplaetze="" Raumart="Seminarraum" />
+<hoersaal RaumID="1100|214" Raumname="VT 214" Adresse="Wüllnerstraße 5" Sitzplaetze="22" Raumart="Seminar/Übungsraum" />
+<hoersaal RaumID="1660|001" Raumname="E101" Adresse="Schinkelstraße 1" Sitzplaetze="49" Raumart="Seminarraum" />
+<hoersaal RaumID="1660|004" Raumname="E102" Adresse="Schinkelstraße 1" Sitzplaetze="49" Raumart="Seminarraum" />
+<hoersaal RaumID="1660|101" Raumname="E201" Adresse="Schinkelstraße 1" Sitzplaetze="49" Raumart="Seminarraum" />
+<hoersaal RaumID="1660|104" Raumname="E202" Adresse="Schinkelstraße 1" Sitzplaetze="49" Raumart="Seminarraum" />
+<hoersaal RaumID="1821|012" Raumname="SFo 12" Adresse="Eilfschornsteinstraße 15" Sitzplaetze="25" Raumart="Seminar/Übungsraum" />
+<hoersaal RaumID="1821|013" Raumname="SFo 13" Adresse="Eilfschornsteinstraße 15" Sitzplaetze="30" Raumart="Seminar/Übungsraum" />
+<hoersaal RaumID="2010|123" Raumname="AC" Adresse="Melatener Straße 2" Sitzplaetze="" Raumart="Hörsaal" />
+<hoersaal RaumID="2020|118" Raumname="AOC" Adresse="Landoltweg 1" Sitzplaetze="474" Raumart="Hörsaal" />
+<hoersaal RaumID="2030|015" Raumname="OC" Adresse="Landoltweg 1" Sitzplaetze="108" Raumart="Hörsaal" />
+<hoersaal RaumID="2130|714" Raumname="CIP-Pool FB3" Adresse="Mies-van-der-Rohe-Straße 1" Sitzplaetze="40" Raumart="CIP-Pool" />
+<hoersaal RaumID="2190|304" Raumname="Reze" Adresse="Seffenter Weg 23" Sitzplaetze="160" Raumart="Hörsaal" />
+<hoersaal RaumID="2400|U101" Raumname="PC" Adresse="Landoltweg 2" Sitzplaetze="110" Raumart="Hörsaal" />
+<hoersaal RaumID="4263|201" Raumname="26 C 201" Adresse="Sommerfelstr. 16" Sitzplaetze="30" Raumart="Seminarraum" />
+<hoersaal RaumID="4263|401" Raumname="26 C 401" Adresse="Sommerfeldstr. 16" Sitzplaetze="30" Raumart="Seminarraum" />
+<hoersaal RaumID="4263|402" Raumname="26 C 402" Adresse="Sommerfeldstr. 16" Sitzplaetze="30" Raumart="Seminarraum" />
+<hoersaal RaumID="4272|001" Raumname="MBPhysik Seminarraum 001" Adresse="Otto-Blumenthal-Str." Sitzplaetze="30" Raumart="Seminarraum" />
+<hoersaal RaumID="4272|015" Raumname="MBPhysik Seminarraum 015" Adresse="Otto-Blumenthal-Str." Sitzplaetze="30" Raumart="Seminarraum" />
+<hoersaal RaumID="4272|026" Raumname="MBPhysik Konferenzraum 026" Adresse="Otto-Blumenthal-Str." Sitzplaetze="30" Raumart="Konferenzraum" />
+<hoersaal RaumID="4281|301" Raumname="28 A 301" Adresse="Sommerfeldstr. 16" Sitzplaetze="30" Raumart="Seminarraum" />
+<hoersaal RaumID="4282|110" Raumname="28 B 110" Adresse="Sommerfeldstr. 16" Sitzplaetze="46" Raumart="Hörsaal" />
+<hoersaal RaumID="4282|201" Raumname="28 B 201" Adresse="Sommerfeldstr. 16" Sitzplaetze="30" Raumart="Seminarraum" />
+<hoersaal RaumID="4284|001" Raumname="28 D 001 Hörsaal Physik" Adresse="Sommerfeldstr. 16, 52074 Aachen" Sitzplaetze="177" Raumart="Hörsaal" />
+<hoersaal RaumID="5381|006" Raumname="38 A 3" Adresse="Worringer Weg 1" Sitzplaetze="55" Raumart="Hörsaal" />
+<hoersaal RaumID="5381|U111" Raumname="38 A 1" Adresse="Worringer Weg 1" Sitzplaetze="112" Raumart="Hörsaal" />
+</csv_data>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent" android:orientation="vertical">
+    <TextView android:layout_height="wrap_content" android:text="TextView" android:id="@+id/l2pnameText" android:layout_width="wrap_content"></TextView>
+    <LinearLayout android:layout_height="wrap_content" android:id="@+id/linearLayout1" android:layout_width="match_parent" android:gravity="right">
+        <ImageButton android:layout_height="wrap_content" android:maxWidth="48dip" android:maxHeight="48dip" android:id="@+id/rssButton" android:src="@drawable/rss_blue" android:adjustViewBounds="true" android:layout_width="wrap_content" android:scaleType="fitCenter"></ImageButton>
+        <ImageButton android:layout_height="wrap_content" android:maxWidth="48dip" android:maxHeight="48dip" android:id="@+id/campusButton" android:adjustViewBounds="true" android:layout_width="wrap_content" android:scaleType="fitCenter" android:src="@drawable/campus_icon"></ImageButton>
+        <ImageButton android:layout_height="wrap_content" android:maxWidth="48dip" android:maxHeight="48dip" android:id="@+id/l2pbutton" android:src="@drawable/l2p_logo_home" android:adjustViewBounds="true" android:layout_width="wrap_content" android:scaleType="fitCenter"></ImageButton>
+    </LinearLayout>
+</LinearLayout>
